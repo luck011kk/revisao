@@ -1,0 +1,11 @@
+body{
+    background-color: crimson;
+}
+#neymar{
+    width: 100%;
+    height: auto;
+}
+header ul{
+    display: flex;
+    list-style: none;
+}
